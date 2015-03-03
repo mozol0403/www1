@@ -7,7 +7,7 @@
 
 	color: #333;
 	background-color: #354556;
-	height: 330px;
+	height: 400px;
 }
 #fok {
 	padding-left: 100px;
@@ -27,7 +27,9 @@
 	color: #354556;
 }
 #qwe {
-font-size: 50px;
+	font-weight: inherit;
+font-size: 90px;
+
  font-weight:10;
 color: #f5f6f6;
  text-align: center;
@@ -47,9 +49,40 @@ text-align: center;
 color: red;
 }
 .qwe{
+
 color: #f5f6f6;
 border-radius: 2px;
 border-color: #868f9a;
  border-width: 1px;
 background-color: #354556;
+}
+
+#qqq {
+margin-top: 50px;
+text-align: center;	
+font-size: 35px;
+color: #60b5a2;
+margin-bottom: 30px;
+}
+#qqq1 {
+	font-size: 20px;
+text-align: center;	
+color: #9da7a7;	
+}
+#qqq2 {
+
+
+}
+.qwe1{
+
+color: #16a085;
+border-radius: 2px;
+border-color: #16a085;
+ border-width: 1px;
+background-color: #ffffff;
+}
+#cxz1 {
+  
+text-align: center;
+color: red;
 }
